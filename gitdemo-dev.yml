@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: config-server-dev
-  profiles:
-    active:
-    - dev
+config:
+   info: testtest
  
