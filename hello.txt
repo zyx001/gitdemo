@@ -1,4 +1,4 @@
 test hot-fix master change by text in hello
-git demo push demo
+gst demo push demo
 git test
 git demo push
