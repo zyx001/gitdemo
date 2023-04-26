@@ -1,5 +1,5 @@
 test hot-fix master change by text in hello
 gbt demo push demo
-git test
+git test demo test
 git demo push
 git demo test push
